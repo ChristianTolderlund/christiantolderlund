@@ -1,0 +1,21 @@
+.link{
+    display: flex;
+    justify-content: center;
+    padding: 2rem 1rem;
+}
+.link a{
+    border-bottom:1px var(--color-darker) solid ;
+}
+section{
+    padding: 1rem;
+}
+.images{
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+}
+.type-scale-img{
+    display: flex;
+    width: 100%;
+}
